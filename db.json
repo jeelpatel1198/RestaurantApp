@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "pateljeel1198",
+      "email": "pateljeel1198@gmail.com",
+      "mobile": "4104249186",
+      "address": "105 GOVERNORS CT",
+      "services": "sdjb"
+    },
+    {
+      "id": 4,
+      "name": "Jiya1",
+      "email": "jiya1@gmail.com",
+      "mobile": "898989891",
+      "address": "gngr1",
+      "services": "coffee1"
+    }
+  ],
+  "signup": [
+    {
+      "name": "pateljeel1198",
+      "mobile": "234545",
+      "email": "jik",
+      "password": "jeel",
+      "id": 1
+    },
+    {
+      "name": "pateljeel1198",
+      "mobile": "343",
+      "email": "f@gmail.com",
+      "password": "ggh",
+      "id": 2
+    },
+    {
+      "name": "Ritu",
+      "mobile": "8511617833",
+      "email": "Jeel.patel1198@gmail.com",
+      "password": "jeel@123",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
